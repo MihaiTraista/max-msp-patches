@@ -1,4 +1,4 @@
-# Fun Max/MSP patches to mess up with sound
+# Fun Max/MSP patches to mess up your sound
 
 ## 1.Cycle Chopper
 
